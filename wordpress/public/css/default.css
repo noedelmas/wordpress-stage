@@ -1,0 +1,22 @@
+html, body, main{
+    background-color: #F8F7F3;
+}
+
+.header{
+    background-color: hsl(5, 15%, 14%);
+    border-radius: 12.5px;
+}
+
+.heading_logo{
+    margin: 2.5%;
+    width:25%;
+    height:auto;
+}
+
+.heading_logo{
+    
+}
+
+.header .heading_logo img{
+    opacity: .2;
+}
